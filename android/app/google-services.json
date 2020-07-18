@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021554231906",
+    "firebase_url": "https://reminder-47bc8.firebaseio.com",
+    "project_id": "reminder-47bc8",
+    "storage_bucket": "reminder-47bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021554231906:android:9b3c014f5f0091aa4fdf3b",
+        "android_client_info": {
+          "package_name": "com.example.mytodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021554231906-8ssbf43f3ikodb4j1bl2mng5j8b0hkpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUiiTCOxTzGihIL6QiJZvvOV8EbXKn3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021554231906-8ssbf43f3ikodb4j1bl2mng5j8b0hkpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
